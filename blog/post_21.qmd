@@ -1,0 +1,42 @@
+---
+title: "Dimensions de la qualités de données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-data-qualitaezdedonnaezes-activity-7052528403819683841-S04l?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Fri, 14 Apr 2023
+
+---
+
+
+Les DIMENSIONS de la DATA QUALITY sont-elles réellement UTILES ?
+
+Je veux dire…, est-ce tu peux honnêtement me dire la différence entre la précision, la cohérence et la conformité sans regarder dans le DAMA ?
+
+Si une donnée est cohérente… c’est qu’elle conforme à une règle non ?
+
+Et si elle est précise c’est qu’elle est conforme avec la réalité ? 🤨
+
+Je ne dit pas que les dimensions sont complètement inutile mais plutôt que ce n’est pas le seul paradigme pour définir des indicateurs de qualité
+
+Elles sont souvent même une source de confusion (selon où on regarde, il y a entre 5 et 60 dimensions… 😱)
+
+Je préfère penser les règles de qualité de données comme le reflet des règles métiers, tes indicateurs de qualité de données devraient donc mesurer si tes données respectent les règles métiers.
+
+En revanche si tu te base uniquement sur les dimensions pour définir des indicateurs de qualité (ex : Taux de précision ou taux de cohérence) tu risque de créer de la confusion sur la signification de l’indicateur.
+
+Le souci étant que l’interprétation de ces dimensions va grandement dépendre de ton audience, du contexte, etc
+
+Je préfère savoir et communiquer ce que l’indicateur mesure en termes simples, plutôt que de savoir qu’il se rapporte à la dimensions X ou Y….
+
+Les indicateurs de qualités de données doivent être factuel, précis et basé sur des règles métiers et ne peuvent donc pas s’appuyer uniquement sur les dimensions de la qualité de données
+
+Egalement, si tu peux rendre tes indicateurs compréhensibles par les gens qui n’ont pas lu le DAMA ça ne peut-être qu’un plus pour aider à la diffusion et la compréhension de la démarche qualité à tes collègues “non-data”
+
+Pour illustrer mon propos, je te propose cet exemple :
+
+- Le taux de raisonnabilité du référentiel Client ne parlera probablement à personne
+
+- Le taux de facture non-associées à un client valide, en revanche est beaucoup plus compréhensible, même pour un non-initié

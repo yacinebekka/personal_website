@@ -1,0 +1,29 @@
+---
+title: "4 livres à lire sur la gestion de la qualité de données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_4-ouvrages-%C3%A0-lire-absolument-si-tu-tint%C3%A9resse-activity-7065211992893972480-GEF4?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication :  Fri, 19 May 2023
+
+---
+
+4 ouvrages à LIRE ABSOLUMENT si tu t'intéresse à la DATA QUALITY :
+
+• Danette McGilvray - Executing Data Quality Projects: Ten Steps to Quality Data and Trusted Information (2008)
+
+Un classique, le livre est très complet aborde la qualité de données sous un angle pratique. Parfait si tu veut comprendre et mettre rapidement en place un projet d'amélioration de la qualité de données
+
+• Jack E. Olson - Data Quality: The Accuracy Dimension (2003)
+
+Très bon livre, très complet aussi. J'ai trouvé le chapitre sur le business case très pertinent, on sent que l'auteur à une grosse expérience du sujet.
+
+• Lowell Fryman, Gregory Lampshire, Dan Meers: The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality (2016)
+
+Un peu plus orienté data governance, conçu comme "un playbook" pour un leader data pourrait suivr, le livre décrit de façon intéressante certaine des situations "politiques" autour de la governance des données
+
+• Laura Sebastian-Coleman - Meeting the Challenges of Data Quality Management (2022)
+
+Plus récent que les précèdents, l'ouvrage est encore plus complet puisqu'il aborde aussi d'autres thématiques comme la stratégie ou la culture data.

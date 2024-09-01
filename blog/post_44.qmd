@@ -1,0 +1,34 @@
+---
+title: "Model-as-a-service"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataasset-datamanagement-datastrategy-activity-7079337576704159744-KK3n?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 27 Jun 2023
+
+---
+
+OpenAI, un des meilleurs business modèle au monde ?
+
+Le "Model-as-a-service"
+
+OpenAI loue l'accès à leur modèles pour faire des revenues
+
+Mais à la différence de louer un bien immobilier ou une voiture
+
+Les modèles d'OpenAI eux :
+- peuvent être loué à plusieurs clients en même temps
+- Plus ils sont utilisés plus ils vont s'apprécier
+
+OpenAI est doublement gagnant, les utilisateurs payent pour l'accès et par leur utilisation, contribuent à améliorer les modèles
+
+D'autres sociétés comme Tesla, Google, etc ne donnent pas accès directement au modèle mais vendent un produits ou un service "on-top" et bénéficie du même effet "kiss-cool"
+
+Autre points à noter :
+
+- Ces actifs ne sont pas inscrits au bilan comptable donc pas taxés directement
+- Plus ils s'apprécient plus il devient difficile pour les concurrents potentiels de rivaliser
+
+T'en pense quoi ?

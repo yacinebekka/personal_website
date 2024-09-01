@@ -1,0 +1,44 @@
+---
+title: "3 méthodes pour calculer un indice de qualité des données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-datagovernance-data-activity-7070285435175858176-2WwW?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Fri, 02 Jun 2023
+
+---
+
+3 METHODES pour calculer un INDICE de DATA QUALITY !
+
+Si tu t'intéresses à la data quality, tu vas peut-être vouloir définir un indice de qualité...
+
+C'est une bonne façon d'agréger les différents indicateurs de qualité pour avoir une idée de la qualité globale
+
+Je vais te partager 3 méthodes que j'utilise pour définir et calculer un indice de data quality
+
+On va partir du postulat que tes indicateurs de qualité sont exprimés en % du nombre d'entrées totales d'un jeu de données
+
+• Moyenne des indicateurs (equi-pondération)
+
+Facile, tu fais la somme des indicateurs de qualité et tu divises par le nombre d'indicateurs de qualité
+
+Problème : Toutes les anomalies ne se valent pas
+
+• Moyenne pondérée des indicateurs
+
+Cette fois on va assigner un poids à chaque indicateur pour pondérer le résultat, permettant de refléter son importance relative dans l'indice
+
+Problème : Définition des poids subjective
+
+• % d'entrées sans anomalies
+
+On va simplement faire le % des entrées qui passent tous les contrôles.
+
+C'est personnellement ma préférée car elle reflète le mieux ma vision de la qualité de données.
+
+Si on part du principe que le standard de qualité = définition de qualité, cette méthode nous donne le % le plus représentatif.
+
+L'inconvénient c'est qu'elle reste aveugle par rapport à l'importance relative des différents contrôles...
+

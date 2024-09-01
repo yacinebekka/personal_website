@@ -1,0 +1,25 @@
+---
+title: "L'iceberg de la data quality"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_33.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-datamanegement-datagovernance-activity-7066661564455505920-2Wds?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 23 May 2023
+
+---
+
+Les anomalies de la qualité de données viennent rarement seules...
+
+C'est en général le symptôme d'un problème plus profond avec le SI et/ou les processus métiers
+
+D'où l'importance de ne pas faire de la data quality en silo (champ d'action limité)
+
+Et d'associer la démarche qualité à une gouvernance
+
+Sans quoi tu risque de courir après les anomalies...
+
+
+![](post_33.jpg)

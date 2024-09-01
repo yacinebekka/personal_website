@@ -1,0 +1,41 @@
+---
+title: "Data-as-an-asset"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-dataasset-datastrategy-activity-7081930263563264002-xtP3?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 04 Jul 2023
+
+---
+
+https://www.linkedin.com/posts/yacine-bekka_data-dataasset-datastrategy-activity-7081930263563264002-xtP3?utm_source=share&utm_medium=member_desktop
+
+Passer de "data-as-a-cost" à "data-as-an-asset"
+
+Beaucoup d'organisations voient encore les données comme un centre de coûts...
+
+Elles n'exploitent pas le "vrai" pouvoir de la data.
+
+Les données servent uniquement à soutenir le bon fonctionnement des opérations.
+
+Au mieux, un reporting, un tableau de bord ici et là...
+
+La vraie valeur de la data, c'est de pouvoir l'utiliser pour prédire un état futur.
+
+Dans la vie et dans les affaires, l'immense majorité des décisions sont prises dans un état d'incertitude.
+
+Parfois plus ou moins important...
+
+La capacité à prédire le futur, même de façon imparfaite, constitue un avantage, puisqu'on vient réduire cette incertitude.
+
+Par exemple, si vous pouvez prédire les employés susceptibles de démissionner.
+
+Cela va permettre de prendre de meilleures décisions opérationnelles et in fine :
+
+• d'améliorer la rétention,
+• de diminuer les coûts de recrutement,
+• d'éviter que des postes critiques pour l'organisation ne restent vacants trop longtemps.
+
+C'est de cette façon qu'une data devient une source de profit pour l'organisation.

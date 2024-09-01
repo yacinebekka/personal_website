@@ -1,0 +1,34 @@
+---
+title: "Persuade your boss/team about the value of your projects"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_est-ce-que-tu-gal%C3%A8res-%C3%A0-convaincre-ton-boss-activity-7044260184516362241-CePx?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 22 Mar 2023
+
+---
+
+
+Having trouble persuading your boss and team about the value of your data projects?
+
+I believe it's a situation most of data pros have experienced at some point.
+
+In such scenarios, my tactic is to clearly show how data can influence your boss's objectives and your organization's aspirations.
+
+It's great to have a quantifiable business case (my project will generate X€ in revenue / cut X€ in costs), but it isn't always straightforward to measure.
+
+Especially for topics such as data governance, data quality management or data catalog
+
+As an alternative, consider the qualitative side; I enjoy using simple visuals like cause-and-effect charts.
+
+By itself it may not secure a €1M budget, but if you can clearly establish the connection between data and management's goals,
+
+It will make everything else easier!
+
+However, if the purpose remains unclear, progress will be considerably more challenging.
+
+As data professionals, I think it's our responsibility to effectively convey the added value of our efforts to our colleagues.
+
+Do you employ other strategies for promoting data internally? Share your thoughts in the comments!

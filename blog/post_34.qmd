@@ -1,0 +1,31 @@
+---
+title: "3 définitions pour mieux gérer ses données d'entreprises"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-datamanagement-datagovernance-activity-7067023930263248896-Q3tB?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 24 May 2023
+
+---
+
+3 définitions SIMPLES pour POSER LES BASES quand tu parle DATA
+
+C'est pas toujours facile de parler data
+
+Entre le data mesh, la data fabric, la data observability ou encore la data gouvernance....
+
+On peut vite s'y mélanger les pinceaux, même pour les pros !
+
+Imagine quelqu'un qui n'est pas du domaine…
+
+Alors pour partir sur de bonnes base quand tu parle data avec quelqu'un qui n'est pas familier avec la terminologie
+
+Je te propose ces trois définitions :
+
+• Données : Représentation digitale (çàd dans un SI) d'un objet ou d'un événement réel
+
+• Attribut : Représentation digitale d'une caractéristiques d'intérêt de notre objet/évènement
+
+• Modèle de données : Ensemble des attributs d'un objet/événement

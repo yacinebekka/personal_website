@@ -1,0 +1,15 @@
+---
+title: "Carousel Simulation monte carlo"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_simulation-monte-carlo-activity-7075019156529537024-KHvE?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Thu, 15 Jun 2023
+
+---
+
+```{=html}
+<iframe width="100%" height="800" src="post_53.pdf" title="Carousel Simulation Monte Carlo"></iframe>
+```

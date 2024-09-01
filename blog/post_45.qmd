@@ -1,0 +1,29 @@
+---
+title: "Valorisation des données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataroi-datavaluation-datastrategy-activity-7079692406396268544-vaMe?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 28 Jun 2023
+
+---
+
+4 approches pour valoriser une donnée ou une information !
+
+1. Valorisation par les coûts
+
+On va regarder ce que ça coûte de remplacer cette données en cas de perte ou les coûts de gestion/acquisition de cette donnée pour en déterminer la valeur
+
+2. Valorisation intrinsèque
+
+La valorisation intrinsèque va évaluer la valeur de la donnée de façon indépendante à l'utilisation actuelle. On va déterminer la valeur "absolue" de la données en utilisant différents facteurs comme la rareté, la couverture, la qualité, etc
+
+3. Valorisation par le prix de marché
+
+Rarement possible en pratique, nécessite qu'il existe un marché pour cette données et que ce marché "price" la données correctement. On va ensuite utiliser le prix de marché pour valoriser notre donnée
+
+4. Valorisation par l'utilité
+
+On va regarder à quel point cette donnée est utile pour déterminer sa valeur. Le plus elle impacte positivement les enjeux d'un individus ou d'une organisation le plus elle aura de valeur

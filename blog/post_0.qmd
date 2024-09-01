@@ -1,0 +1,34 @@
+---
+title: "Data management buzzword"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_0.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-datacatalog-datagoverance-activity-7008705261292896257-qcX-?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 14 Dec 2022
+
+---
+
+We all have heard about hashtag#dataquality, hashtag#datacatalog or hashtag#datagoverance. Are they hashtag#buzzwords for you ? Or do you know clearly what they mean in your specific company context ?
+
+The n°1 step of any data-related initiatives is to have clarity on what we actually want to accomplish. Just saying we are going to create a data dictionary or we are going to do data quality is not enough. 
+
+Any data related terms can be understood differently depending on the audience. For instance the term data quality can refer to the level of data quality of a given data object, the complete process of managing data quality or a “one-shot” data quality investigation. This might create confusion if the term itself and the expected outcomes associated with it are not well defined.
+
+As an example, one of my customer wanted to implement a data catalog solution though their maturity on hashtag#datamanagement and hashtag#datagovernance was very low (they didn’t had any type of governance in place at that time). 
+
+Due to no governance and no business data owner involvement, they wanted to focus the data catalog on documenting only the technical aspects (database(s), table(s), SQL queries, etc)
+
+Purpose of a data catalog is to document company data so that any collaborator can easily know what it means, how to interpret it, where he can access it and who is responsible for it. 
+
+The focus should be on documenting business terms, ownership, business rules, policies, etc by starting from a “top-down” approach (top being business/natural language, bottom technical). Only once the business aspects are mastered, then the technical information becomes useful as they can be placed into a business context.
+ 
+Main takeaway here is that if you lack hashtag#clarity for your data project(s), you should work this out first !
+
+---
+
+Original picture from Michelle Tresemer - Unsplash
+
+![](post_0.jpg)

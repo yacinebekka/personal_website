@@ -1,0 +1,34 @@
+---
+title: "How to explain the value of data to your colleagues"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_11.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-analytics-ai-activity-7036735231785132032-JzHv?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 01 Mar 2023
+
+---
+
+Do you struggle to explain the value of data to your boss and co-workers? 🤔
+
+As data professionals, we can get caught up in our own expertise and forget about the perspective of "non-data" folks.
+
+To help bridge the gap, I've created a visual to show how data can tie into business outcomes.
+
+There are three significant ways that data can impact a company (assuming you're not a tech company):
+
+- Better decision-making (analytics): The ability to extract trustworthy information on your market and operations for business decisions.
+
+- Automation (AI): Innovation and operational improvement through automation for more value with less effort.
+
+- Avoiding operational disasters (data quality): Bad data quality can cause disasters like NASA's lost Mars Orbiter worth €125M due to a unit of measure error ! 😱
+
+(The NASA disaster will be the topic of an upcoming post, so make sure to follow me if you don’t want to miss it 😉)
+
+All of these require the right peoples, tools, and processes to manage data end-to-end in your company.
+
+Easy peasy, right? 😇
+
+![](post_11.jpg)

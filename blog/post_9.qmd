@@ -1,0 +1,44 @@
+---
+title: "Data reliability"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-dataquality-digital-activity-7028995022901411840-COHT?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 08 Feb 2023
+
+---
+
+Have you already heard about "data reliability" ?
+
+I didn’t know about it either until I stumbled across it recently in my Linkedin feed so i looked into it :
+
+ - Do you trust your hashtag#data ?
+
+ - If you ask them something will they tell the truth ?
+
+ - Will they be there when you need them the most ?
+
+All of those aspects can be summarized by are your data reliable… 👏 
+
+"I got it but isn’t it the same than hashtag#dataquality ?" 🧐
+
+Almost, but with a small tweak. 
+
+Just take data quality over a period of time and voilà… you have data reliability 📈 
+
+Also, the term is quite popular in the data engineering community but less so with the data management folks that will usually prefer data quality.
+
+Data reliability is as important as data quality as it impacts all processes and tools that use data.
+
+With reliable data you will increase the knowledge you have on your company and your market which will lead to better business decisions.
+
+With unreliable data though, you will face issues with every hashtag#digital related initiatives.
+
+It will prevents your company from having efficient operations and benefiting from the latest innovations in analytics and machine learning.
+
+Did you like this definition ?
+
+
+![](post_9.jpg)

@@ -1,0 +1,41 @@
+---
+title: "L'importance de s'attaquer au causes racines de la non-qualité"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-data-datamanagement-activity-7061950506369179648-g9dM?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 10 May 2023
+
+---
+
+Est-ce que tu connais le point commun entre un MARIN et un DATA QUALITY MANAGER ?
+
+Non… ? 🤔
+
+Je te propose de découvrir le point commun entre réparer un bateau qui coule et résoudre des problèmes de qualité de données ⬇ 
+
+Pour une amélioration continue de la qualité, je pense qu'il est nécessaire d'avoir une approche radicale.
+
+Dans le sens ou notre approche doit adresser les causes racines à l'origine des problèmes de qualité
+
+Et ne pas juste "rester en surface"
+
+Pour illustrer ce point, j'aime bien l’analogie du bateau….
+
+On imagine qu'on est sur bateau en mer et que la coque soit percée, le bateau commence donc à se remplir d'eau et à couler
+
+Résoudre en "firefighting" les anomalies et l'équivalent de prendre un seau et de vider l'eau
+
+C'est peut-être nécessaire dans certains cas afin d'éviter l'imminence du naufrage
+
+Mais ça ne résoudra pas le problème sur le long terme
+
+Une approche plus pérenne consiste à chercher la fuite, à la boucher puis ensuite à vider l'eau du bateau
+
+Et pour la gestion de la qualité, l'approche est similaire
+
+Il faudra parfois corriger en urgence certaines anomalies….
+
+Mais le gros du travail devrait être orienté vers la résolution des causes racines puis la correction des données

@@ -1,0 +1,49 @@
+---
+title: "Valeur financière d'une données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_datavaluation-infonomics-data-activity-7072459755050422273-5P-Q?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Thu, 08 Jun 2023
+
+---
+
+C'est POSSIBLE de calculer la VALEUR FINANCIÈRE d'une donnée ? 💰 🤔
+
+C'est ce que Douglas Laney propose dans son livre "Infonomics"
+
+Notamment avec cette notion qu'il appelle l'EVI (Economic Value of Information)
+
+C'est une valeur sert à mesurer à quelle point cette données contribue à la profitabilité d'une business unit
+
+La formule ⬇️
+
+EVI = (Chiffre d'affaires A - Chiffre d'affaires B - Coûts de gestion) * T/t
+
+Chiffre d'affaires A = Chiffre d'affaires réalisé en utilisant l'information
+Chiffre d'affaires B = Chiffres d'affaires réalisé sans l'information (groupe contrôle)
+
+Coûts de gestion = L'ensemble des coûts d'acquisition, de stockage et maintenance de la données
+
+T = Durée de vie moyenne d'une instance de l'information
+t = Durée de l'expérimentation
+
+Cette formule nécessite la mise en place d'une expérience
+
+Dans laquelle moins une business unit va servir de groupe contrôle
+
+Et donc ne pas utiliser l'information dont on cherche à déterminer la valeur
+
+C'est aussi un indicateur "tardif" qui nous donne la différence de CA à posteriori
+
+Tu l'as compris, il n'est pas parfait…
+
+Mais il a le mérite de définir une formule pour valoriser les informations
+
+Qui peut s'appliquer quelque soit l'information ou la société
+
+D'autres formules tel que l'Intrinsic Value of Information ou la Cost Value of Information sont décrites dans son livre Infonomics (que je recommande)
+
+Et tu as aussi 2 cours du même nom sur Coursera, qui sont accessible en auditeur libre 😉

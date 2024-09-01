@@ -1,0 +1,45 @@
+---
+title: "L'importance de la clarté dans les projets data"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-gestiondeprojet-datamanagement-activity-7059413811090345984-P3PD?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 03 May 2023
+
+---
+
+Plusieurs MOIS et des dizaines de K€ dépensé pour RIEN ! 😱
+
+Je vais te raconter une histoire VRAIE qui m’est arrivée sur un PROJET DATA qui n'aurait jamais dû être lancé....
+
+Je travaillais sur la gouvernance et la qualité des données pour une grosse société
+
+Et avant même que je prenne mon poste, un projet de création d’un référentiel pour une nouvelle donnée avait été lancé.
+
+L'équipe projet avait passée environ 1 an à essayer de naviguer entre les conflits et la politique interne de l’entreprise (la données en question étant un sujet sensible) sans réel progrès
+
+On avait même pas de définition claire de pour cette nouvelle donnée
+
+Autant te dire que le référentiel n’était toujours pas prêt de voir le jour….
+
+Pour débloquer la situation, un atelier à donc été organisé par le chef de projet lors duquel les questions suivantes ont été posées :
+
+• Pourquoi est-ce qu’on fait ce nouveau référentiel en fait ?
+ 
+• C’est quoi cette nouvelle donnée ?
+
+Il s’est avéré que cette “nouvelle” donnée était en réalité quasi-identique à une autre déjà existante dans un autre référentiel…. 😅
+
+Et que ce projet de nouveau référentiel avait été lancé uniquement dans le but de répondre à une question posée par un top exec’ il y a de ça plus d’1 an….
+
+Après quelques autres réunions et en impliquant les bonnes personnes, le problème était quasi-résolu.
+
+En utilisant les données déjà existantes on pouvait répondre à 95% de la question posée…
+
+Sans projet, sans budget, sans une armée d’externes, et sans délai….
+
+Voilà pourquoi je pense qu'il est important d’avoir de la clarté sur POURQUOI on fait ce que l’on fait
+
+Autrement on peut vite se perdre dans le COMMENT, perdre de vue la finalité et finir par faire fausse route

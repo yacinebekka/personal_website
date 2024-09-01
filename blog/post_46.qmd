@@ -1,0 +1,26 @@
+---
+title: "Prévalence, détection et faux positif"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_petite-%C3%A9nigme-pour-la-team-linkedin-un-logiciel-activity-7080424719635607552-UpMc?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Fri, 30 Jun 2023
+
+---
+
+Petite énigme pour la team Linkedin
+
+Un logiciel de data quality, basé un algorithme de détection d'anomalies, permettant d'identifer les problème de qualité est à l'étude....
+
+Suite à des test sur des données historiques, on sait les choses suivantes :
+
+- Sur 10 anomalies, 9 sont marquées par le logiciel
+- Sur 10 entrées correctes, 2 sont marquées comme anomalies
+
+Les affirmations ci-dessous sont-elles vraies ? Et pourquoi ?
+
+1. Si une entrée est marquée par le logiciel il y a 90% de probabilité que ce soit une anomalie.
+
+2. Une entrée correcte à 80% de probabilité de ne pas être marquée comme anomalie.

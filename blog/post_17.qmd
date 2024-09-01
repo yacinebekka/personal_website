@@ -1,0 +1,35 @@
+---
+title: "Problème de qualité de données et désastre opérationel à la NASA"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_saviez-vous-que-la-nasa-%C3%A0-perdu-125m-%C3%A0-cause-activity-7048649012710633473-UQ7G?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 03 Apr 2023
+
+---
+
+Saviez-vous que la NASA à PERDU $125M à cause d’une MAUVAISE DATA QUALITY ?
+
+La data quality n’est un sujet “sexy” pour tout le monde et peut parfois sembler loin de la réalité concrète.
+
+Je vais donc vous raconter, comment la NASA à perdu $125M à cause d’une mauvaise qualité de données
+
+Le 11 décembre 1998, une sonde spatiale la NASA lance une sonde spatiale en direction de la planète Mars afin d’étudier l'atmosphère et le climat de Mars
+
+Le coût total de cette sonde à été évalué à $125M
+
+L’objectif étant de ramener des mesures et des données scientifiques sur l’atmosphère et le climat de la planète.
+
+Mais en Septembre 1999 au moment où la sonde devait entrer en orbite avec la planète, ils perdent tout contact avec l’appareil.
+
+En fait l'équipe de navigation du Jet Propulsion Laboratory (JPL) a utilisé le système métrique pour tous ses calculs.
+
+Alors que Lockheed Martin Astronautics à Denver, dans le Colorado, qui a conçu et construit l'engin spatial, a fourni des données d'accélération en système anglais.
+
+Les ingénieurs du Jet Propulsion Lab de la NASA ont supposé que la conversion avait été effectuée, car c'était une pratique courante, mais ce n'était pas le cas.
+
+Cela a entraîné des erreurs de trajectoire pour la sonde spatiale, l'envoyant trop près de l'atmosphère de la planète et provoquant sa destruction.
+
+Voilà comment une simple erreur d'unité de mesure peut conduire à un vrai désastre et à une perte financière conséquente.

@@ -1,0 +1,44 @@
+---
+title: "Dealing with duplicates"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-datamanagement-duplicate-activity-7021904253229137921-NYTk?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 19 Jan 2023 
+
+---
+
+We have all encountered duplicate hashtag#data in the course of our careers, let's see how we can deal with it ⬇️
+
+🤔 What is a duplicates
+
+In the context of enterprise hashtag#datamanagement, we can think of hashtag#duplicate data as a redundant representation of a business object (customer, invoice, material, etc.). An example with a customer referential might look like this :
+
+Customer ID = 1 -> Customer Name = Jane, Doe -> Customer Status = Active
+Customer ID = 365 -> Customer Name = Jan Doe -> Customer Status = Payment Default
+Customer ID = 1455 -> Customer Name = JaneDoe -> Customer Status = Active
+
+🔎 Identify duplicates
+
+To ensure that our data is of high quality, we need to make sure that there is no redundant representation, especially when there is conflicting information. The main difficulty is that duplicates can be hard to identify depending on context and initial data quality.
+
+In some cases, a simple deterministic check (whether records are duplicates for sure) may suffice, e.g., an exact match on all or a subset of attributes. In other cases, probabilistic checking (is it likely that these records are duplicates) is required (string edit distance comparison, phonetic comparison, combination of multiple methods, etc.).
+
+🚧 Prevent duplicates
+
+Using a unique identifier for our business objects is the first step in properly managing duplicates. Even though the unique identifier ID does not directly prevent the creation of duplicates, it enables unique identification of records, which is a prerequisite for identifying duplicates.
+
+An efficient way to prevent duplicates is to include a "matching" step (which can be manual or automated) in the creation process.
+
+🪛 Correct duplicates
+
+Correcting duplicates is a complex process and requires several steps :
+- Identification (match duplicate records)
+- Grouping (cluster duplicates together)
+- Merging (keep the fittest record)
+
+Depending on the data and context, you may also need to manage the transfer of other business objects linked with the deduplicated business object. Full traceability of the correction process is also a best practise.
+
+hashtag#dataquality

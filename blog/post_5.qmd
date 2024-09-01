@@ -1,0 +1,37 @@
+---
+title: "Business drivers of data quality management"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_4-business-drivers-of-data-quality-activity-7020705759898292224--ObA?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 16 Jan 2023 
+
+---
+
+Why does your organization need data quality in the first place ? Let me introduce you to 4 business drivers of data quality management 👇
+
+🎯 Operational excellence
+
+Improved hashtag#dataquality leads to more efficiency in your company's operations.
+
+In a multinational company, data often needs to be collected from multiple sources (ERP, legacy, financial/accounting applications, etc.) for balance sheet calculations. With low data quality, this process becomes a nightmare as you have to check for duplicates, inconsistencies between sources, missing data, anomalies, etc., causing additional costs and delays.
+
+🧠 Better decision making
+
+High-quality data provided in a reliable manner helps in decision making by providing trusted insights and information about the company’s business.
+
+The commercial department of a multinational company decides to perform a simple analysis to find out which customer account accounts for the largest share of revenues. The invoices data are stored in ERP, while the customers (from the trade department's point of view) are stored in CRM. If the DQ is low, mapping CRM customers to ERP customers could be difficult (major customer LTD vs. major customer UK vs. major customer). In this case, some of the invoices made with this customer might not be included in the final analysis, which would affect the decisions based on this analysis.
+
+🚀 Enable innovation through hashtag#analytics and hashtag#machinelearning
+
+To quote SCOTT TAYLOR - The Data Whisperer, the golden rule for data is "garbage in, garbage out." Low data quality can prevent companies from leveraging AI and machine learning to stay ahead of the competition.
+
+Example : an automotive manufacturer wants to develop a new predictive maintenance service (parts replaced just-in-time before of failure), but when they review their service order database, they find that there are a large number of duplicates and missing data. If they use this data "as is" to train an hashtag#AI algorithm, the results will not be very efficient, and likely this service will not see the light of day.
+
+💵 Monetization of data
+
+In the age of personalized advertising and artificial intelligence, data is now a commodity that can have solid financial value if managed properly. As a business, you generate data and have access to some data sets that are likely unique or very difficult to replicate. If you can provide this regularly and reliably in high quality, it can be a new revenue stream.
+
+Example: a stockbroker has access to the order flow of his customers. This data is of great value as it can reveal who is buying/selling a particular stock or financial instrument at which moment, and can then be sold to third parties or used by the company itself (subject to laws and regulations). On the other hand, if the data quality is low (duplicate customers, wrong ISIN code/ticker, wrong timestamp, etc.), the value of this data set decreases or even goes to zero…

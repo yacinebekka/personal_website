@@ -1,0 +1,42 @@
+---
+title: "Data management jargon"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-data-learning-activity-7039189646546718721-UK-H?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 08 Mar 2023
+
+---
+
+Do you ever feel like you’re struggling to explain the data jargon to your coworkers? 🤯
+
+Trust me, I know what you feel! 
+
+So let me share with you, the definition I use to explain data quality to a non-data audience:
+
+First, you can think of data as a digital twin of a real thing. 
+
+As an example, customer data in your CRM are the digital twins of your "real" customers. 
+
+Data quality is about how accurate that digital twin is compared to the real thing….
+
+But here's the thing: quality is a subjective concept. 
+
+Let’s take a pair of shoes... What makes them high-quality? 
+
+It depends on who's wearing them and what they're wearing them for, right? 
+
+Well, it's the same with data! Quality will depend a lot on the usage.
+
+To keep with the shoe analogy, managing data quality is a lot like managing quality in a shoe factory. It requires to :
+
+ - Define quality requirements
+ - Regularly check that the data meets your expectations
+ - Address any complaints from consumers
+ - Investigate the causes of quality issues.
+
+It's not always fun, but it's definitely necessary !
+
+Are your data as good as stilettos on the rugby field or do you have your data cleats on? 😂 

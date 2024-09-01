@@ -1,0 +1,40 @@
+---
+title: "La data gouvernance comme les antibiotiques, c'est pas automatique !"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_datagovernance-data-digital-activity-7051111845520109568-MlCZ?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 10 Apr 2023
+
+---
+
+
+La gouvernance des données, c'est comme les antibiotiques... ce n'est pas automatique !
+
+As-tu déjà passé des heures à mettre en place une gouvernance des données et à organiser d'interminables "data governance council"...
+
+Pour finalement te rendre compte que peu de progrès concrets sont réalisés ?
+
+La clé de la mise en place d'une gouvernance des données, c'est la clarté.
+
+Sans but clair, la gouvernance des données devient simplement une autre case à cocher.
+
+Et il est peu probable qu'elle apporte une plus-value significative à ton organisation et risque plus d'être une perte de temps et d'énergie.
+
+OK, mais alors, c'est quoi la solution ?
+
+Mon approche consiste à considérer la gouvernance des données comme un réseau !
+
+Un réseau sur lequel on va s'appuyer pour prendre des décisions, transmettre et récupérer des informations et faire exécuter nos différentes initiatives dans les différents domaines (Finance, Marketing, RH, etc).
+
+Le plus important est donc d'identifier les bons acteurs et d'animer ce réseau afin d'entretenir une dynamique collaborative et saine.
+
+Le processus et le cadre sont évidemment à prendre en compte, mais ils passent au second plan par rapport au groupe et aux individus.
+
+Pour résumer simplement, je dirais que :
+
+Bon processus de gouvernance + mauvaise dynamique de groupe = mauvaise gouvernance
+
+Processus de gouvernance moyen + bonne dynamique de groupe = bonne gouvernance

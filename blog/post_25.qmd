@@ -1,0 +1,55 @@
+---
+title: "Data flow map"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_architecture-dataflow-datamanagement-activity-7056877072584962048-I4VF?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 25 Apr 2023
+
+---
+
+Est-ce que tu connais ce document SUPER UTILE pour s’y retrouver dans un SI COMPLEXE mais qui est souvent OUBLIÉ ? 😯
+
+…
+
+La DATA FLOW MAP !
+
+En français, cartographie des flux de données, est une représentation visuelle des échanges de données entre les applications d’une organisation.
+
+Elle pour but de faciliter la compréhension des échanges de données entre les différents systèmes informatiques de l’entreprise
+
+Niveaux de grains (du moins fin au plus fin):
+
+- App-to-App et Process-by-process : Les flux de données entre applications sont représentés par processus métier
+
+(ex : CRM -> ERP | Sales to Cash).
+
+- App-to-App et Data-by-Data : Les flux de données entre applications sont représentés données par données
+
+(ex : CRM → ERP | Référentiel client).
+
+- App-to-App et Function-by-Function : Les flux de données entre applications sont représentés par fonction
+
+(ex : Client CRM → ERP | Réplication journalière des nouveaux clients du CRM vers l’ERP).
+
+Comment créer une cartographie des flux de données à partir de zéro ?
+
+Ne vise pas la perfection du 1er coup, c’est impossible d'être exhaustif et précis dès le départ.
+
+Commence par ce qui est déjà connu et met en perspective les informations recueillies.
+
+Plan étape par étape :
+
+- Classer par priorité toutes les applications gérées par la DSI.
+
+- Préparer un questionnaire pour recueillir les infos dont tu as besoin (application source/cible, données échangées, fréquence, déclenchement, fonction, techno, etc)
+
+- Identifier les responsables des applications côté IT (et si possible, les responsables côté métier également).
+
+- Organiser des ateliers avec chaque responsable d'application pour recueillir des informations sur les flux de données existants et futurs de leur application.
+
+- À partir des informations recueillies, tu crées les différents niveaux de cartographie des flux de données.
+
+L'objectif est d'obtenir rapidement une première version pour faciliter la suites des discussions sur l'architecture globale

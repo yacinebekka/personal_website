@@ -1,0 +1,69 @@
+---
+title: "Le pire ennemi du professionel de la data"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-doublons-datacleansing-activity-7051463824742207488-wuAz?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 11 Apr 2023
+
+---
+
+1. Tous les pros de la data m’ont déjà rencontrés au moins une fois dans leur carrière….
+
+2. Je viens fausser tes résultats d’analyse et créer des anomalies dans tes reporting
+
+Qui suis-je… ?
+
+Un doublon !
+
+Et oui les doublons sont une des problématiques majeures de la qualité de données. 
+
+Alors comment faire pour ne pas en avoir (ou du moins en avoir le moins possible) ?
+
+1. Identification
+
+Identifier des doublons c’est plus un art qu’une science !
+
+La première étape d’un dédoublonnage est de “computer” toutes les paires possibles (produit cartésien du jeu de données). Puis il faut déterminer si chaque paire est un doublon
+
+C’est là ou ça commence à se corser…
+
+Selon le niveau d’exigences, le modèle de données et les règles métiers, la façon d’identifier des doublons ne sera pas la même.
+
+Pour un modèle de données simples, une simple comparaison exacte sur un ou plusieurs attributs peut suffire
+
+En revanche pour des données plus complexes, il faudra surement utiliser des contrôles plus avancés
+
+2 exemples connu :
+
+- La distance de Levenshtein, qui mesure la similarité entre deux chaînes de caractères
+
+- Le Soundex qui permet de comparer la similarité de prononciation entre deux chaînes de caractères
+
+On peut même combiner les différentes méthodes et avoir un score de similarité pour chacune.
+
+Il nous faut ensuite séparer les paires en doublons de celles qui n’en sont pas
+
+Pour ça plusieurs méthode peuvent-être utilisé, allant de la plus simple (”au doigt mouillé”) à des méthodes de classification plus complexes (random forest, apprentissage actif, etc)
+
+2. Corriger
+
+La prochaine étape est le regroupement de nos doublons entre eux avant de choisir l’entrées la plus qualitative.
+
+La encore plusieurs méthodes peuvent être utiliser pour le groupage, à définir selon les exigences en termes de qualité
+
+Le plus simple étant une approche naïve —> Si A et B son doublon et B et C sont doublons alors A et C sont doublons
+
+On veut évidemment garder l'entrée qui à la meilleure qualité. Pareil plusieurs manières de faire, la plus simple étant de garder l’entrée avec le plus d’attributs remplis
+
+Une bonne pratique est de garder un historique complet de l’opération pour pouvoir revenir en arrière en cas de problème.
+
+Il faut aussi penser à gérer le transfert des autres jeux de données rattachés vers notre jeux de données dédoublonnées !
+
+3. Prévenir
+
+Utiliser un identifiant unique ! Même si il ne prévient pas directement des doublons, il permet d'identifier chaque entrée de façon équivoque et constitue donc un préalable au dédoublonnage
+
+L’implémentation de contrôle de de type "matching" (qui peut être manuelle ou automatisée) pendant ou juste avant la saisie afin de nous assurons que le processus de saisie des données ne génère pas de doublons.

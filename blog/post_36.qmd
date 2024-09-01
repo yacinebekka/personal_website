@@ -1,0 +1,29 @@
+---
+title: "4 frameworks de gestion de la qualité de données à connaitre !"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_36.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-datamanagement-data-activity-7069198262502617088-IW8t?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 30 May 2023
+
+---
+
+3 causes possibles de doublons dans un jeu de données :
+
+• Intégration de plusieurs sources sans réconciliation :
+
+Si l'on intègre des référentiels clients provenant de différentes sources dans un entrepôt de données sans les réconcilier entre eux, il est fort probable que des doublons se forment.
+
+• Pas de vérification lors de la création :
+
+L'étape de création/saisie des données est cruciale. Un contrôle lors de la saisie pour prévenir la création de doublons dans le référentiel peut éviter de nombreuses anomalies !
+
+• Pas d'identifiant unique :
+
+Il est surprenant que cela existe encore en 2023... Cependant, il est possible que certains systèmes ou processus ne génèrent pas d'identifiant unique pour les différents objets/événements utilisés, ou qu'ils les gèrent mal, ce qui contribue aux causes possibles de duplication.
+
+
+![](post_36.jpg)

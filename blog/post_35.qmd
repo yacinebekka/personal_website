@@ -1,0 +1,39 @@
+---
+title: "4 frameworks de gestion de la qualité de données à connaitre !"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_4-framework-de-data-quality-dont-tu-peux-activity-7067386330778882048-p3oD?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Thu, 25 May 2023
+
+---
+
+4 framework de DATA QUALITY dont tu peux t'inspirer pour créer le TIEN !
+
+• Total Data Quality Management du MIT Information Quality Program
+
+Conçu lors d'une activité de recherche pour définir une théorie de la data quality
+Propose la notion d'information product
+Les publication du MIT Information Quality (MITIQ) Program sur leur site web sont très intéressante même si plus màj
+
+• 10 steps Data Quality Framework de Danette McGilvray
+ 
+Sûrement le plus connu, orienté projet "one-shot"
+Le modèle est pratique et efficace, également un des rare à aborder l'aspect communication
+
+• Total Information Data Quality Management by Larry English
+ 
+Conçu initialement pour des projet de datawarehouse
+"Old but gold", une des références en la matière
+Modèle de coûts/bénéfices limité en termes de données mais très intéressant (un des plus détaillé que j'ai vu jusqu'à présent)
+
+En bonus, un autre que je connais pas bien mais que auxquels plusieurs ouvrages font référence :
+
+• Istat Data Quality Methodology from Italian National Institute of Statistics
+ 
+A la particularité d'avoir été conçu pour une administration publique avec plusieurs agences (centrales, locales, périphériques)
+Pour l'instant, je n'en sais pas grand-chose de plus, il faudra creuser par toi-même si ça t'intéresse
+
+Si tu connais d'autres framework de gestion de la qualité intéressant n'hésite pas à les partager en commentaires !

@@ -1,0 +1,31 @@
+---
+title: "Standard de qualité des données"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-data-datamanagement-activity-7073962169251291136-6ML_?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 12 Jun 2023
+
+---
+
+Un élément CLÉ pour BIEN gérer la QUALITÉ DES DONNÉES….
+
+Le standard de qualité 
+
+En quoi ça consiste ?
+
+Et bien c'est l'ensemble des règles de qualité de données ainsi que les indicateurs associés.
+
+On va écrire ces règles avec les producteurs et les consommateurs de données, en langage naturel.
+
+L'idée c'est qu'avec nos connaissances de la réalité…
+
+Ont définissent une liste de règles pour vérifier que les données en sont bien la représentation
+
+Ce standard est spécifique à un jeux de données mais aussi à un groupe d'usage de la données en question
+
+Si les utilisations de la données sont très différentes, on peut imaginer que les besoins en termes de qualité le soit aussi
+
+Dans ce cas, il vaut mieux avoir plusieurs jeux de données (et donc plusieurs standards) pour s'accommoder des différents besoins.

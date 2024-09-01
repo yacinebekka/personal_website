@@ -1,0 +1,15 @@
+---
+title: "Slides - Standard de qualité des données"
+date: "2024-08-28"
+categories: 'Repost Youtube'
+---
+
+Vidéo Youtube : https://youtu.be/SIf8w5Fx6Cc
+
+Date originale de publication : 28 May 2023
+
+---
+
+```{=html}
+<iframe width="100%" height="800" src="post_56.pdf" title="Standard de qualité des données"></iframe>
+```

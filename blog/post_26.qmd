@@ -1,0 +1,53 @@
+---
+title: "C'est quoi un data manager ?"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-datamanagement-datamanager-activity-7057239484794302464-PhiJ?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Thu, 27 Apr 2023
+
+---
+
+Au fait, c'est quoi un “data manager” ? 🤔 
+
+Laisse-moi te présenter ce rôle, un peu moins connu du grand public mais qui est pourtant présent dans toutes la plupart des entreprises avec une stratégie data !
+
+Parfois appelé aussi data governance manager ou data quality manager, le data manager est responsable de la gestion des données de l'entreprise.
+
+“Et c’est quoi la gestion des données de l’entreprise ?”
+
+Doucement j’y viens….
+
+Le but de la gestion de données c’est de faire en sorte que l’entreprise tire le meilleur parti de ses données en s’assurant qu’elles soit :
+
+- de bonne qualité
+
+- accessible aux bonne personnes
+
+- au bons endroits
+
+- et utilisées de manière optimales
+
+Pour que ce soit plus concret voilà une liste de tâches qu’un data manager peut-être amener à faire :
+
+- Définir le processus de création/modification/archivage d’une données dans un référentiel
+
+- Effectuer un audit de la qualité de données
+
+- Mettre en place une démarche d’amélioration continue de la qualité des données
+
+- Définir les rôles et responsabilité autour des données (qui est responsable de quoi pour de quelle données)
+
+- Animer un réseau de référent data au sein des différents domaines métiers
+
+- Documenter le modèle de données conceptuel
+
+- Documenter les définitions, règles métiers, etc associées au données
+
+C’est un acteur clé de la stratégie data d’une entreprise car il va faciliter et débloquer la création de valeur par les autres acteurs de la chaîne (data engineer, data analyst, data scientist, etc)
+
+Sans data manager, les tâches qui lui sont normalement affectées se retrouvent dispersées sur les autres acteurs qui doivent les gérer en plus de leur job…
+
+Pas top comme situation !

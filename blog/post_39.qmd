@@ -1,0 +1,39 @@
+---
+title: "Dialogue fictif entre un CDO et un CEO..."
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_au-fait-est-ce-que-tu-as-suffisamment-activity-7071372578048618496-iZM8?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Mon, 05 Jun 2023
+
+---
+
+👨‍💼: "Au fait, est-ce que tu as suffisamment de budget pour la data quality"
+
+👨‍💼: "Tu es sûr ? N'hésite pas si tu as besoin de quoi que ce soit, on sait que c'est un sujet important, tout le Codir est derrière toi"
+
+Je pense que ces deux phrases n'ont probablement jamais été prononcées par aucun CEO...
+
+Et peut-être à juste titre...
+
+Entre professionnels de la données, l'importance et les bénéfices d'une bonne qualité paraissent évident
+
+Mais pour le Codir, la qualité de données n'est que le sous-sujet d'un sous-sujet d'un sous-sujet,... au sein d'une problématique générale
+
+Comment gérer au mieux l'organisation ?
+
+Avec toutes les considérations que ça impliquent
+
+Alors comment faire pour que des aspects, pourtant critiques comme la qualité de données, ne finissent pas par être négligés...
+
+Je pense qu'un des gros point faible de la data quality, c'est la difficulté de démontrer un ROI
+
+On connaît tous l’astuce du business case qualitatif (dont les projets data sont en général très friand)
+
+Mais avec le contexte économique actuel,
+
+Avoir la capacité de démontrer, de façon chiffré, qu'une amélioration de la qualité de données aura un impact bénéfique réel
+
+C'est peut-être une des clés pour permettre aux organisations de réaliser le potentiel de leur données.

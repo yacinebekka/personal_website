@@ -1,0 +1,35 @@
+---
+title: "C'est quoi la data gouvernance ?"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_23.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_datagovernance-data-activity-7054702754232979456-5ngU?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Thu, 20 Apr 2023
+
+---
+
+
+En vrai c’est quoi une data gouv’… 🤔 ?
+
+Après avoir travaillé de près ou de loin sur la gouvernance des données de 4 sociétés différentes au cours des 7 dernières années...
+
+Je voudrais te partager ma définition “pratique” de la hashtag#datagovernance.
+
+En réalité une gouvernance de données c’est :
+
+- Avoir une définition claire pour nos données (savoir ce qu’elle représente ces données !)
+
+- Supporter l’interprétation en documentant les règles métiers, les modèle de données, les relations, etc
+
+- Avoir des rôles et responsabilités clair sur la gestion des données l’entreprise (ce qui veut dire à minima qu’il y une personne qui est responsable sur chacune des données du périmètre)
+
+- Permettre l’échange et la collaboration autour des données de l’entreprise à travers les différents domaines via un “réseau hashtag#data”
+
+- Avoir un cadre qui permet de maintenir et d’améliorer tous les points décrits au-dessus
+
+Qu'est ce que tu en penses ?
+
+![](post_23.jpg)

@@ -1,0 +1,29 @@
+---
+title: "Stratégie data : Objectifs vs Moyens"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-strategy-activity-7056514688972390400-v0D2?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 25 Apr 2023
+
+---
+
+Tu sais c’est quoi le point COMMUN de la plupart des MAUVAISES stratégie data ?
+
+Elles sont orientées principalement sur la technologie….
+
+Une bonne stratégie data devrait être fixée sur les priorités et les enjeux de la société
+
+En se basant sur des cas d’usage concrets et si possible quantifiable
+
+Et pas sur la dernière techno ou concept à la mode 
+
+Ce serait comme dire à quelqu’un dont l’objectif est de se remettre en forme, de construire une salle de sport dans son garage
+
+C’est pas inutile en soi mais c’est pas ça qui va la rapprocher le plus de son objectif
+
+Il faut évidemment mettre ça en perspective et ne pas tomber dans un biais uniquement court terme
+
+Mais en se basant sur la finalité réelle, pas les moyens employés

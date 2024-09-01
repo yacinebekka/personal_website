@@ -1,0 +1,42 @@
+---
+title: "Data quality management process"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_data-quality-management-activity-7018491937175306241-AtNb?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 10 Jan 2023
+
+---
+
+Let me explain the process I use with my clients to manage their data quality 👇
+
+📜 Define initial standards for monitoring hashtag#dataquality
+
+- Document business rules and derive associated data quality indicators
+- Define monitoring methodology (frequency, queries used, etc.)
+
+👀 Start monitoring
+
+- Conduct initial data quality monitoring based on the newly defined standards
+- Identify current data quality issues (non-compliance with one or more business rules)
+
+🧠 Investigate root causes and effort for data correction
+
+- Analyze the data quality issues to understand what the root cause(s) are and what effort is required to correct the data affected by them
+
+🗣️ Communicate findings with the business and establish priorities
+
+- Share your findings with business stakeholders and determine the criticality of the issue based on business impact
+- Determine priority based on cost (effort required to correct the data and root cause) and benefit (business impact)
+
+🔧 Correct data and root cause(s)
+
+- Ideally, data correction should be done in the source system
+- Depending on the context (legacy application that cannot be updated, etc.), sometimes the correction needs to be done on the fly between the source and the data warehouse
+
+🔄 Iterate
+
+- Ensure that data consumers have the opportunity to raise issues not covered by the process
+- The quality standard should be updated after new business/quality rules are created or discovered

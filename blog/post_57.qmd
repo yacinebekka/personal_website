@@ -1,0 +1,102 @@
+---
+title: "Etude de cas : Gestion de la qualité de données chez le Groupe SeLoger"
+date: "2024-08-28"
+categories: 'Case study'
+---
+
+Date originale de publication : 31 mars 2022
+
+## Introduction 
+Groupe Seloger est le groupe leader des portails immobiliers en France. Le groupe possède notamment les marques SeLoger, LogicImmo, Meilleurs Agents, etc
+
+La qualité des données est très importante pour le groupe étant donné que leur business model est étroitement lié aux données. En tant que portail d'annonces immobilières, il est d’une importance majeur de servir des données de la plus haute qualité au utilisateurs du portail, sur les biens disponibles mais également pour leurs clients du groupe (principalement des agences immobilières), de pouvoir fournir des statistiques précises et de qualité sur les interactions des utilisateurs sur les annonces. La qualité des données est également un facilitateur majeur  d'innovation pour le groupe car elle impacte la capacité à développer des nouveaux produits/fonctionnalités telle qu'un moteur de recommandations basé sur les préférences des utilisateurs.
+
+Notre mission consiste à implémenter, en partant de zéro, un processus de gestion de la qualité des données pour la plateforme de données du groupe (hébergée sur Amazon AWS) en collaboration avec les équipes du département Data.
+
+## Challenges
+
+- Important volume et grande variété de données collectées chaque jour dans la plateforme de données (150+ jeux de données allant de 10-15M à 20G entrées, allant du référentiel clients au interactions des utilisateurs sur les portails)
+
+- Faible maturité et culture sur la gouvernance des données et la gestion de la qualité des données dans le groupe
+
+- Faible implication initiales du "métiers", interlocuteurs venant principalement des équipes IT/Data
+
+- Les données de la plateforme sont utilisées par différents "consommateurs" internes pour des usages variés, définition de la qualité variant également selon les usages/interlocuteurs
+
+- Pas de ressources dédiés à la gestion de la qualité de données, nécessité de s'appuyer sur les équipes et outils existants
+
+- Dû à l'important volume de données et à l'infrastructure technique, la reprise de données ainsi que la remédiation des causes racines peut nécessiter des coûts et des efforts élevés
+
+## Solution
+
+Afin de dépasser ces difficultés et livrer les résultats demandés, nous avons utilisé le Data Quality Launchpad, notre méthodologie pour accélérer votre transformation digitale et réduire vos déchets opérationnels en rendant votre organisation autonome pour gérer et améliorer de façon continue la qualité de vos données.
+
+1. Identify
+
+Pour cette première étape, nous échangeons avec les équipes data pour définir ensemble quelles sont les exigences en termes de qualité de données. Etant donné le nombre élevé de jeux de données à couvrir et le fait que nous n'ayons pas accès à des interlocuteurs "métiers" nous avons utilisé une approche de type générique/spécifique pour la définition des standards de qualité de données (un standard de qualité de données est la collection des règles applicable à un jeux de données)
+
+Le standard de qualité générique est conçu pour être applicable à l'ensemble des jeux de données et les standards spécifiques sont eux dédiés à un jeux de données en particulier. Cette approche nous permet de couvrir l'ensemble des jeux de données avec le standard générique mais avec une précision amoindri (dû à la généricité du standard) et un effort de spécification faible alors que les standards spécifiques sont plus précis mais nécessite plus d'implication des interlocuteurs "métiers"
+
+Une fois les standards de qualité définis et formalisés, nous dérivons ensuite les indicateurs de qualité associés et nous effectuons les mesures initiales de qualité. Nous avons ensuite analysé et présenté ces mesures au “data consumers” (collaborateurs utilisant ce jeux de données en particulier). Comme dans la plupart des organisations, les problèmes de qualité de données sont souvent cachés ou mal définis. Avec cette première étape nous avons découvert plusieurs problèmes de qualité à fort impact que nous avons présentés de façon factuel. Les “data consumers” ont été très surpris par certaines de ces découvertes et nous ont aidés à évaluer les impacts, prioriser les différents problèmes et générer de l’intérêt autour de la qualité de données.
+
+2. Improve
+
+Dans le Groupe SeLoger, les équipes data travaillent de manière très autonome, en suivant la méthode Agile "by-the-book". Afin de s'appuyer sur les ressources, les outils et les modes de travail déjà en place dans le groupe, nous avons intégré les différentes activités de notre méthodologie de gestion de la qualité de données avec le processus actuel de gestion des données du groupe en répartissant les responsabilités sur les rôles existants. Nous accompagnons et aidons également à l'adoption de ces nouvelles tâches auprès des différents collaborateurs via des sessions de formation et la rédaction de procédures opérationnelles normalisées.
+
+Une fois les rôles et responsabilités définis, nous nous sommes concentrés sur l'investigation des causes racines pour les problèmes de data quality ayant la priorité la plus élevés. Pour cela, nous commençons par lister les différentes hypothèses de causes racine et nous vérifions et testons ensuite la validité de ces hypothèses par ordre de probabilité. Ce travail nécessite l'implication de plusieurs équipes à l'intérieur et à l'extérieur du departement Data. L’intérêt généré par la découvertes de ces problèmes nous a aidé à impliquer ces différentes équipes, nous avons aussi bien distinguer la phase d'identification des causes racines et leur résolution, en nous concentrant d'abord uniquement sur l'identification.
+
+Après avoir déterminé les causes racines des problèmes de qualité à haute priorité, nous avançons vers la phase de solution et d’analyse de coûts-bénéfices afin d'arbitrer s’il est pertinent de corriger la cause racine ou non. Dans cette étude de cas, certains problèmes de qualité avaient un tel impact que les bénéfices dépassaient largement les coûts mais pour d'autres ce n'était pas le cas. Dans cette situation, nous avons définis des solutions alternatives qui, bien que non-optimales, permettent de prévenir les futurs problèmes autant que possible.
+
+3. Communicate
+
+Pour la communication, nous concentrons nos efforts sur deux axes:
+
+Communication sur les aspects opérationnels (niveaux actuels de qualités de données, statut de résolution des problèmes de qualité, alertes de la part des "consommateurs" de données) via les notice de qualité de données
+
+Communication au management et de façon plus large, à l'ensemble de la société ("success stories" de la qualité de données) via la Data Quality Newsletter
+
+Pour les notices de qualité de données nous publions des notices, disponibles pour l'ensemble des collaborateurs utilisant ces données. Pour cela nous utilisons Confluence (l'outil utilisé par les équipes Data pour leur site web interne contenant la documentation relatives aux jeux de données) ainsi que les démo de sprint. De cette manière nous pouvons partager les informations opérationnelles sur la qualité des données et recevoir des feedbacks de la part des collaborateurs en "live" et sur "papier".
+
+Pour la Newsletter, nous utilisons Slack étant donné que c'est l'outil de communication principal au sein du groupe. Les différences avec les notices de qualité sont le contenu (moins opérationnels, plus orienté "bénéfices"), la périodicité de publication (newsletter est publié moins souvent que les notices) ainsi que le format (plus court et moins exhaustif que les notices)
+
+4. Iterate
+
+A ce stade, l'organisation est déjà autonome en termes de gestion de la qualité de données, la mission s’oriente donc vers l'amélioration continue et la gestion de la qualité des données sur le long-terme
+
+Grâce au gain de maturité et l’intérêt généré autour de la gestion de la qualité de données nous avons eu une plus grande implication du management et des collaborateurs "métiers". Ceci nous a permis de retravailler certains des standards de qualité afin de les rendre encore plus précis, ce qui à ensuite mené à la découverte de nouveaux problèmes de qualité.
+
+Pour ces nouveaux problèmes, nous suivons donc le processus de gestion de la qualité maintenant en place dans le groupe (décrit dans l'étape "Improve")
+
+Nous industrialisons également le suivi des indicateurs de qualités de données en développant un outil Python pour formaliser les standards de qualité, calculer les indicateurs associés et générer un tableau de bord récapitulatif
+
+## Résultats obtenus
+
+- Meilleure visibilité sur les problèmes de qualité de données et les impacts métiers associés
+
+- Évaluation factuelle du niveau actuel de qualité des données
+
+- Définition de la qualité claire et partagée dans l’organisation (“producteur” de données, équipe data et “consommateurs” de données)
+
+- Processus systématique pour résoudre les problèmes de qualité de données en utilisant les outils et ressources existantes 
+
+- Outil configurable et facile d’utilisation pour suivre l’évolution de la qualité des données et générer des graphiques
+
+- Amélioration de la qualité des données pour les jeux de données les plus important de la plateforme (interaction utilisateurs et association aux annonces immobilières, adresse-mail utilisateurs et association au critères de recherches)
+
+- Rapport réguliers et publication de notice de qualité de données pour partager les niveaux actuels de qualité de données ainsi que le statut de résolution des problèmes identifiés dans l’organisation
+
+- Meilleur utilisations des ressources de l’équipe data grâce à la définition claire des rôles et responsabilités (plus de nettoyage de données “caché”)
+
+- Confiance accru dans la qualité des données au sein de l’organisation
+
+- Autonomie dans la gestion et l’amélioration continue de la qualité des données
+
+#### Témoignages
+
+“Alors que nous étions au niveau 0 de maturité sur les sujets Data Quality au sein du pôle data du Groupe Se Loger, Yacine a su s'adapter à notre contexte et à nos besoins afin de nous faire progresser.
+
+Très autonome, mais systématiquement dans la collaboration, il m'a impressionnée par sa rapidité à comprendre notre contexte et à s'adapter au mieux à nos besoins. Ce n'est pas quelqu'un qui abandonne au premier obstacle, on peut lui faire confiance pour aller au bout des choses.
+
+J'ai apprécié sa force de proposition, sa proactivité et sa pédagogie, qui nous ont aidé à embarquer les parties prenantes sur l'initiative. En plus de ça c'est quelqu'un qui fait preuve d'une grande humilité, avec un bon esprit d'équipe. En bref, je ne peux que le recommander et serai ravie de collaborer à nouveau avec lui.”
+
+Emanuelle Galet,  Product Owner Data chez Groupe Seloger

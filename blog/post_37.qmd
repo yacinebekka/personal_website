@@ -1,0 +1,53 @@
+---
+title: "Six sigma et qualité de données, l'erreur classique"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-data-datagovernance-activity-7069560641505619968-MXos?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 31 May 2023
+
+---
+
+
+L'ERREUR à ne PAS FAIRE si tu veux appliquer la méthode Six Sigma à la DATA QUALITY
+
+Est-ce que tu as déjà entendu parler de SPC (Statistical Process Control) ?
+
+Pour résumer simplement, ça consiste à utiliser la statistique pour contrôler la stabilité d'un processus.
+
+À la base développées pour l'industrie, la plupart des méthodes de SPC reposent sur les principes suivant :
+
+• Dans un processus de fabrication stable, à entrée constante la variabilité en sortie va elle aussi être stable.
+• Tout écart trop important par rapport à la moyenne devrait donc être considéré comme une anomalie potentielle et être investigué.
+
+Avec l'émergence du paradigme "data-as-a-product", on pourrait avoir envie de faire la même chose pour nos données ?
+
+Et bien OUI et NON...
+
+NON car beaucoup de gens font l'erreur de vouloir vérifier directement les données avec ces méthodes.
+
+Exemple : Si une valeur du champ X de la table Y est à +/- 6 écart-types alors c'est une anomalie.
+
+Le problème c'est que nos données ne sont pas uniquement le produit d'un processus, mais aussi une représentation de la réalité.
+
+Et que l'on ne sait pas si notre échantillon (aka notre dataset) est représentatif de la population "réelle" (ce n'est peut-être pas un échantillon randomisé).
+
+Ni qu'il contient des observations indépendantes entre elles.
+
+Pour te donner un exemple, imaginons que tu veuilles mettre en place ce type de contrôle sur l'âge des salariés de l'organisation.
+
+Tu fais tes calculs et tu te rends compte que l'âge moyen est de 32 ans, avec +/- 3 ans d'écart-type.
+
+Tu fais tes z-scores pour tous tes employés et tous les employés de +50 ans vont être considérés comme des anomalies....
+
+Ce qui n'est pas forcément le cas, c'est peut-être juste des employés plus âgés que la moyenne.
+
+En fait il y a beaucoup d'autres raisons qui expliquent l'écart qu'une erreur de qualité de données.
+
+Ce n'est donc pas une façon efficace pour vérifier la qualité des données.
+
+En revanche OUI, il est possible d'utiliser ce genre de méthode pour la DATA QUALITY.
+
+Mais je garde le suspense... et je te dirai comment exactement dans une de mes prochaines vidéos !

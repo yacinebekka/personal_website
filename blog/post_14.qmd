@@ -1,0 +1,35 @@
+---
+title: "Data in PR vs Data in Reality"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: 'post_14.jpg'
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_datamanagement-dataquality-digitaltransformation-activity-7041700222892167169-P0JI?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Wed, 15 Mar 2023
+
+---
+
+
+Data Management: PR Talk vs. Reality
+
+Ever noticed how sometimes companies boast about their data-driven strategies in public relations, but behind the scenes, their data management practices tell a different story?
+
+In PR: "Thanks to our successful digital transformation, we are a data-driven company leveraging AI to innovate and grow."
+
+In Reality: "We don't need data quality management, our data is already good. And why do we need to document our data?"
+
+I believe the issue stems from a lack of clarity. Being data-driven or achieving digital transformation is not an end in itself; it's merely a means (for all my marketing folks out there: it's a feature, not a benefit).
+
+For me, the real questions should be:
+
+ 1. What does your company want to accomplish?
+
+ 2. How can data help move towards those goals?
+
+From there start small and iterate
+
+But if you chase buzzwords, that's what you'll get in the end... buzzwords.
+
+![](post_14.jpg)

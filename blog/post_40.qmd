@@ -1,0 +1,40 @@
+---
+title: "Trust but verify"
+date: "2024-08-28"
+categories: 'Repost Linkedin'
+image: "post_40.jpg"
+---
+
+Repost Linkedin : https://www.linkedin.com/posts/yacine-bekka_dataquality-datamanagement-trustbutverify-activity-7071734965184393216-1Lmg?utm_source=share&utm_medium=member_desktop
+
+Date originale de publication : Tue, 06 Jun 2023 
+
+---
+
+La plupart des organisations sur-estiment le niveau de qualité de de leur données
+
+On à tendance à vouloir croire en la véracité et l'exactitude des données
+
+Dis autrement, les données sont vraies jusqu'à preuve du contraire
+
+Dans une démarche de gestion de la qualité, on ne peut pas se permettre uniquement de croiser les doigts et d'espérer que les données sont bonnes...
+
+C'est notre job de vérifier !
+
+Et souvent quand on défini et qu'on mesure le niveau de qualité pour la 1ère fois
+
+Il y a souvent des surprises....
+
+J'ai travaillé pour une société qui s'est rendu compte que pour deux de ses datasets clés, il manquait la moitié des relations
+
+Ou une autre qui avait plus de 30% de doublons dans un référentiel fournisseurs
+
+Avant la mesure du niveau de qualité, personne dans l’organisation n'aurait imaginé que ce soit le cas...
+
+On peut y voir une forme de similarité avec la sécurité informatique par exemple
+
+On ne peut pas juste espérer que tous les utilisateurs/acteurs seront bienveillants…
+
+Il faut prévoir et tester les différents scénarios, et encore plus ceux qu'on ne souhaiterais jamais avoir à affronter
+
+![](post_40.jpg)
