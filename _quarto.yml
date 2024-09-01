@@ -1,0 +1,33 @@
+project:
+  type : website
+
+website:
+  title : "Yacine's blog"
+  page-footer : |
+      ©2022-2025 SAS BEKKA Consulting. Tous droits réservés
+  navbar:
+    search : false
+    left:
+      - href: index.qmd
+        text: Home
+      - blog.qmd
+      - projects.qmd
+      - contact.qmd
+    tools:
+      - icon: github
+        href: https://github.com/yacinebekka
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yacine-bekka/
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCzQQNkhty1PZMvqYbUj_RVw
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+
+
+

@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: "blog/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  fields: [image, date, title, reading-time]
+---
+
+

@@ -1,0 +1,31 @@
+---
+title: "Portfolio & ressources"
+---
+
+## Software
+
+- [Agent autonome pour le jeu de Yathzee](https://yacinebekka.github.io/YathzeeMCTSAgent/)
+
+Agent autonome conçu pour jouer contre ou assister un joueur humain au jeu de Yahtzee. Cet agent utilise l'algorithme MCTS pour prendre des décisions en temps réel pendant le jeu, et atteint une moyenne de 154 points par partie.
+
+Entièrement implémenté côté client, les dépendances sont minimales, étant principalement développé en JavaScript "vanilla" avec HTML/CSS (à l'exception des graphiques, qui s'appuient sur Chart.js).
+
+- [Python library for statistical analysis *(Work in progress)*](https://github.com/yacinebekka/statistics) 
+
+Collection de fonctions Python pour l'analyse statistique (tests statistiques, analyse de puissance). Cette bibliothèque nécessite NumPy pour le chargement des données et SciPy pour les fonctions liées aux lois de probabilité. Principalement destinée à un usage personnel pour l'instant, mais qui sait ce que l'avenir nous réserve...
+
+- [TS Proxy](https://github.com/yacinebekka/ts_proxy)
+
+Implémentation d'un serveur de proxy HTTP/HTTPS/SOCKS5 avec des fonctionnalités additionnelles telles que la gestion de listes blanches/noires et des contre-mesures basiques contre les attaques DDoS.
+
+## Long-form content
+
+- [Rapport technique - Agent autonome pour le jeu de Yathzee](TR - Yahtzee MCTS.qmd)
+
+Rapport technique détaillant le fonctionnement de l'agent autonome pour le jeu de Yahtzee.
+
+- Guide to Data ROI, 1st edition
+
+Guide sur la manière d'estimer le ROI des projets data. Publié en 2023, la première édition n'est plus disponible publiquement en attendant la publication de la deuxième édition, que j'espère sortir bientôt !
+
+Cela dit, si vous êtes vraiment intéressé, n'hésitez pas à m'envoyer un e-mail ;)

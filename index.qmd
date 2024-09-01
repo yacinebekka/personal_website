@@ -1,0 +1,37 @@
+---
+title: "Bienvenue !"
+page-layout: full
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+      - icon: github
+        href: https://github.com/yacinebekka
+      - icon: linkedin
+        href: www.linkedin.com/in/yacine-bekka
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCzQQNkhty1PZMvqYbUj_RVw
+---
+
+:::{#hero-heading}
+
+## Bio
+
+Je m'appelle Yacine BEKKA, bienvenue sur mon site personel ! 
+
+Je suis un expert en gestion des données, diplômé de l'Université du Colorado en data science. Au cours des huit dernières années, j'ai accompagné diverses organisations dans la création de valeur ajoutée grâce à une meilleure gestion de leurs données. J'ai travaillé sur des sujets variés tels que la mise en place de logiciels de gestion des données de référence (MDM), la gestion de la qualité des données, la gouvernance des données, et bien d'autres, au sein de multiples secteurs d'activité (web, assurances, banque d'affaires, agroalimentaire, ferroviaire, etc.).
+
+Fort de ma formation et de mes expériences professionnelles, j'offre des services de conseil aux organisations, principalement dans les domaines de la gouvernance des données, de la gestion des données, de l'architecture des données, et de la gestion de la qualité des données.
+
+Je publie du contenu original que vous pouvez retrouver ici et sur mes différents réseaux sociaux. Dans mon temps libre, je travaille également sur divers projets (logiciels open source, contenu long-format, recherche), que vous pouvez également consulter sur ce site.
+
+## Mon actu'
+
+- Mise en ligne du blog ! (09/2024)
+- Mise en ligne du projet "Agent autonome pour le jeu de Yathzee" (09/2024)
+- Guide to Data ROI 2e édition, en cours d'écriture (2024/2025)
+
+:::
+
+
